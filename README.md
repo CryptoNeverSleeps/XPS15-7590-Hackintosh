@@ -11,3 +11,5 @@
 | -------- | 15.6" 1920x1080                                              |
 | -------- | Realtek ALC298                                               |
 | -------- |[DW1830](Trying to order from Alibaba $38.00) |
+
+## System Specifications
