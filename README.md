@@ -2,7 +2,7 @@
 
 ## 
 
-| System   | DELL XPS 15 7590                                                     |
+| DELL XPS 15 7590                                                     |
 | -------- | ------------------------------------------------------------ |
 | OS | macOS Catalina 10.15.2                 |
 | Processor  | Intel(R) Core(TM) i7-9750H                                   |
