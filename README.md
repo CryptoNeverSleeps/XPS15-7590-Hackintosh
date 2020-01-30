@@ -13,7 +13,15 @@
 | Audio    | Realtek ALC298                                               |
 | Wi-Fi | DW1820A|
 
+Sidecar working 100%, Unlock with Apple Watch - Works Intermittently...
+
+Made some changes to get DW1820A working.....
+
+I will post EFI Folder later... 
+
 ## 
+
+# Screenshots
 
 
 ![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshot/Desktop.png)
