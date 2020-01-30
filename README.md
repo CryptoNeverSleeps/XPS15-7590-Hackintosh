@@ -33,3 +33,7 @@ Made some changes to get DW1820A working.....
 ![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/Security.png)
 
 ![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/DW1820A.png)
+
+![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/Hackintool.png)
+
+![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/Hackintool-DW1820A.png)
