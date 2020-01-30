@@ -1,4 +1,4 @@
-# XPS15-7590-Hackintosh
+# DELL XPS 15 7590 Hackintosh
 
 ## 
 
