@@ -13,7 +13,7 @@
 | Graphics   | Intel UHD Graphics 630(0x3e9b0000)                           |
 | Display   | 15.6" 1920x1080                                              |
 | Audio    | Realtek ALC298                                               |
-| Wi-Fi | DW1820A|
+| Wi-Fi | DW1820A -  Part #: CN-08PKF4|
 
 Sidecar working 100%, Unlock with Apple Watch - Works Intermittently...
 
