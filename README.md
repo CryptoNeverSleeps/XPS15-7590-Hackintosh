@@ -4,7 +4,7 @@
 
 | -------- | DELL XPS 15 7590                                                     |
 | -------- | ------------------------------------------------------------ |
-| OS | macOS Catalina 10.15.2                 |
+| OS | macOS Catalina 10.15.3                 |
 | Processor  | 9th Generation Intel® Core™ i7-9750H                                   |
 | Memory    | 16GB DDR4-2666MHz, 2x8G                                                       |
 | Storage     | MZ-V7P1T0BW Samsung 970 PRO NVMe M.2 SSD 1TB                            |
