@@ -14,3 +14,6 @@
 | Wi-Fi | DW1820A|
 
 ## 
+
+
+![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshot/Desktop.png)
