@@ -1,5 +1,7 @@
 # DELL XPS 15 7590 Hackintosh
 
+#  - Thank You All For Your Contributions - Forked From - https://github.com/daliansky/XPS15-7590-Hackintosh
+
 ## 
 
 | -------- | DELL XPS 15 7590                                                     |
@@ -17,14 +19,17 @@ Sidecar working 100%, Unlock with Apple Watch - Works Intermittently...
 
 Made some changes to get DW1820A working.....
 
-I will post EFI Folder later... 
+- See Pic Below.....
+
 
 ## 
 
 # Screenshots
 
 
-![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshot/Desktop.png)
+![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/Desktop.png)
 
 
-![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshot/Security.png)
+![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/Security.png)
+
+![](https://github.com/CryptoNeverSleeps/XPS15-7590-Hackintosh/blob/master/screenshots/DW1820A.png)
